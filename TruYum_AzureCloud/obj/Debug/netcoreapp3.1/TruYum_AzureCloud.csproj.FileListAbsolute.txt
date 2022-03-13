@@ -25,3 +25,4 @@ C:\Users\2085205\source\repos\TruYum_AzureCloud\TruYum_AzureCloud\bin\Debug\netc
 C:\Users\2085205\source\repos\TruYum_AzureCloud\TruYum_AzureCloud\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\2085205\source\repos\TruYum_AzureCloud\TruYum_AzureCloud\obj\Debug\netcoreapp3.1\TruYum_AzureCloud.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\2085205\source\repos\TruYum_AzureCloud\TruYum_AzureCloud\obj\Debug\netcoreapp3.1\TruYum_AzureCloud.csproj.CopyComplete
+C:\Users\2085205\source\repos\TruYum_AzureCloud\TruYum_AzureCloud\bin\Debug\netcoreapp3.1\Yaml.yml
