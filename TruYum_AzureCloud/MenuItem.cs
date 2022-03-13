@@ -8,6 +8,7 @@ namespace TruYum_AzureCloud
 {
     public class MenuItem
     {
+        //kka
         [Key]
         public int Id { get; set; }
         [Required]
