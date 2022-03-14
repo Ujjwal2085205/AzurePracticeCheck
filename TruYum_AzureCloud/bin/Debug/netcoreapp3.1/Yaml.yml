@@ -1,18 +1,18 @@
 ﻿apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: truyum_azurecloud-deployment
+  name: truyumcloud-deployment
   labels:
-    app: TruYum_AzureCloud
+    app: truyumcloud
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: TruYum_AzureCloud  
+      app: truyumcloud  
   template:
     metadata:
       labels:
-        app: TruYum_AzureCloud
+        app: truyumcloud
     spec:
       containers:
       - name: dnazurecontregistry
@@ -25,10 +25,10 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: truyum_azurecloudsvc
+  name: truyumcloudsvc
 spec:
   type: LoadBalancer
   ports:
   - port: 80
   selector:
-    app: TruYum_AzureCloud
+    app: truyumcloud

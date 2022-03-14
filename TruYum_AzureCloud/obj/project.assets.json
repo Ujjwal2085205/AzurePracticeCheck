@@ -301,9 +301,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2085205\\source\\repos\\TruYum_AzureCloud\\TruYum_AzureCloud\\TruYum_AzureCloud.csproj",
-      "projectName": "TruYum_AzureCloud",
-      "projectPath": "C:\\Users\\2085205\\source\\repos\\TruYum_AzureCloud\\TruYum_AzureCloud\\TruYum_AzureCloud.csproj",
+      "projectUniqueName": "C:\\Users\\2085205\\source\\repos\\TruYum_AzureCloud\\TruYum_AzureCloud\\truyumcloud.csproj",
+      "projectName": "truyumcloud",
+      "projectPath": "C:\\Users\\2085205\\source\\repos\\TruYum_AzureCloud\\TruYum_AzureCloud\\truyumcloud.csproj",
       "packagesPath": "C:\\Users\\2085205\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\2085205\\source\\repos\\TruYum_AzureCloud\\TruYum_AzureCloud\\obj\\",
       "projectStyle": "PackageReference",
