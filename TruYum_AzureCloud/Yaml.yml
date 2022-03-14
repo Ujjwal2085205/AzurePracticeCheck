@@ -1,7 +1,7 @@
 ﻿apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: truyumcloudc-deployment
+  name: truyumclouda-deployment
   labels:
     app: truyumcloud
 spec:
@@ -20,12 +20,12 @@ spec:
         ports:
         - containerPort: 8080
       imagePullSecrets:
-      - name: secret
+      - name: secretu
 ---
 apiVersion: v1
 kind: Service
 metadata:
-  name: truyumcloud-svc
+  name: truyumclouda-svc
 spec:
   type: LoadBalancer
   ports:
